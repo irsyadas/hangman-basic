@@ -1,2 +1,2 @@
 # hangman-basic
-Simple Hangman Game created by Python through Pycharm IDE
+Simple Hangman Game created in Python through Pycharm IDE
