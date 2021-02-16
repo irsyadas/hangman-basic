@@ -1,7 +1,7 @@
 # Hangman Game (English Version)
-Classic word guessing hangman made by Python
+Classic word guessing hangman made by Python.
 
-Launch 'python play_hangman.py' to start the game
+Launch `python play_hangman.py` to start the game.
 
 ## Features
 1. Contains 4000+ english words
